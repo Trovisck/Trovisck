@@ -84,8 +84,3 @@ QA Red Fox
 
 ## FORMAÇÃO ACADÊMICA 
 Eng Mecânica
-
-## SKILL
-
-
-## HARD SKILL
