@@ -40,7 +40,7 @@
 </div>
 
 
-## EXPERIÊNCIA PROFISSIONAL (PODE ESCREVER ESSE TÓPICO EM INGLÊS COMO OS OUTROS) 
+## EXPERIÊNCIA PROFISSIONAL 
 QA Jussi: 
 
 • escrita de histórias de usuários e critérios acessíveis de uso de BDD e Gherkin.
